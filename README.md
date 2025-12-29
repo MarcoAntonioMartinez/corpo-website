@@ -1,4 +1,4 @@
-# Corpoorate Website Project
+# Corporate Website Project
 Recreation of a landing page for a corporation following a tutorial found here: https://www.youtube.com/watch?v=Ppu-3sOO07o
 
 Some changes I made so far include: 
